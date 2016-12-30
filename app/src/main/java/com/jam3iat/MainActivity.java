@@ -9,7 +9,7 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 
-//// TODO: download git - config git - add realm DB class 
+//// TODO: add DB relations - start with main activity
 public class MainActivity extends AppCompatActivity {
 
     @Override
